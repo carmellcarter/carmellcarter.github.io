@@ -654,6 +654,15 @@ openx.com, 564879531, RESELLER, 6a698e2ec38604c6
 conversantmedia.com, 101349, RESELLER, 03113cd04947736d
 krushmedia.com, AJxF6R719a9M6CaTvK, RESELLER
 insticator.com, e2d3e33c-9911-477a-8ae2-f059870c67c0, RESELLER, b3511ffcafb23a32
+freewheel.tv, 548888-r-524565, RESELLER, 74e8e47458f74754
+freewheel.tv, 548888-r-523319, RESELLER, 74e8e47458f74754
+freewheel.tv, sg1332502, RESELLER, 74e8e47458f74754
+indexexchange.com, 220189, RESELLER, 50b1c356f2c5c8fc
+video.unrulymedia.com, 839999282, RESELLER, 98c21ef9a666c68b
+pubnative.net, 1004796, RESELLER, d641df8625486a7b
+monetrix.ai, 10688, RESELLER
+onetag.com, 970b4089dd78c5f, RESELLER
+bluexad.ai, 1993610319863222272, RESELLER
 
 //Unity
 bigo.sg, adidz3dyfp, RESELLER
